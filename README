@@ -1,0 +1,13 @@
+README FOR FBROCKET
+
+This is an upload of the FBRocket code as it was in September 2009.
+
+Unfortunately, despite my wishes to develop FBRocket into a comprehensive API for Android, updated for the new Graph API, I simply don't have the time to develop this anymore.
+
+The code as it exists now (March 2011) has not been improved upon since the original 2009 release. In truth, the source was never intended to be released publicly and is thus fairly poorly written in parts and somewhat lacking in comments.
+
+My hope is that by making the source publicly available, others will be able to improve, update and make better use of it. My only request is that any improvements are committed back into this repository so that others may benefit from them.
+
+Enjoy!
+
+Jonathan
